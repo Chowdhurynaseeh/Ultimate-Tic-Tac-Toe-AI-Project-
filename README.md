@@ -17,9 +17,9 @@ Make sure you have a C++ compiler installed on your machine. You can use g++ or 
 
 ### Installation
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the directory: `cd <repository-directory>`
-3. Compile the code: `g++ -o tictactoe tictactoe.cpp`
+1. Clone the repository: `git clone https://github.com/Chowdhurynaseeh/Ultimate-Tic-Tac-Toe-AI-Project`
+2. Navigate to the directory: `cd https://github.com/Chowdhurynaseeh/Ultimate-Tic-Tac-Toe-AI-Project`
+3. Compile the code: `g++ -o tictactoe tic_tac_toe.cpp`
 4. Run the game: `./tictactoe`
 
 ## How to Play
